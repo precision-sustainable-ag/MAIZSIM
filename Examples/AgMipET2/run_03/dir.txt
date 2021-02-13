@@ -1,0 +1,40 @@
+ Volume in drive D is WIn7D
+ Volume Serial Number is 5A2D-F354
+
+ Directory of d:\MAIZSIM07\AgMipET2\run_03
+
+08/03/2020  12:01 AM    <DIR>          .
+08/03/2020  12:01 AM    <DIR>          ..
+08/02/2020  10:23 PM             1,989 AgMip.nit
+05/05/2020  04:14 PM           355,519 Agmip2.wea
+08/02/2020  10:23 PM               598 Agmip2Climate.dat
+08/02/2020  10:23 PM               362 BiologyDefault.bio
+08/03/2020  12:01 AM                 0 createError.log
+08/03/2020  12:01 AM                 0 dir.txt
+08/02/2020  10:23 PM               198 grid1.bat
+08/02/2020  10:23 PM                20 grid2.bat
+08/02/2020  10:59 PM            25,478 MassBl.out
+08/02/2020  10:59 PM            19,522 MassBlRunOff.out
+08/03/2020  12:01 AM               603 MeadIr_run_03.dat
+08/03/2020  12:01 AM                 0 MeadIr_run_03.soi
+08/02/2020  10:23 PM               798 NitrogenDefault.sol
+08/02/2020  10:23 PM             1,901 Pn_33H26.var
+08/03/2020  12:01 AM                 0 Rosetta.log
+08/02/2020  10:23 PM             1,011 Runrun_03.dat
+08/02/2020  10:59 PM           333,299 run_03.dbg
+08/02/2020  10:23 PM               161 run_03.drp
+08/02/2020  10:59 PM         1,826,084 run_03.g01
+08/02/2020  10:59 PM         9,920,808 run_03.g02
+08/02/2020  10:59 PM        18,216,145 run_03.G03
+08/02/2020  10:59 PM        15,908,102 run_03.G04
+08/02/2020  10:59 PM            66,531 run_03.G05
+08/02/2020  10:59 PM            54,499 run_03.G06
+08/03/2020  12:01 AM            30,385 run_03.grd
+08/02/2020  10:23 PM               545 run_03.ini
+08/02/2020  10:23 PM             3,169 run_03.lyr
+08/02/2020  10:23 PM               575 run_03.man
+08/03/2020  12:01 AM            51,546 run_03.nod
+04/07/2020  08:08 AM           191,561 run_03.sum
+08/02/2020  10:23 PM               384 run_03.tim
+              31 File(s)     47,011,793 bytes
+               2 Dir(s)  136,192,770,048 bytes free

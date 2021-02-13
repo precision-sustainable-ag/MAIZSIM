@@ -1,0 +1,38 @@
+ Volume in drive D is WIn7D
+ Volume Serial Number is 5A2D-F354
+
+ Directory of d:\MAIZSIM07\CROWN\BGR_C
+
+04/30/2020  12:21 PM    <DIR>          .
+04/30/2020  12:21 PM    <DIR>          ..
+04/29/2020  10:42 PM               627 BGR.cli
+04/30/2020  12:21 PM               255 BGR.dat
+04/30/2020  12:21 PM                 0 BGR.soi
+04/30/2020  11:31 AM           344,163 BGR.wea
+04/30/2020  11:43 AM           233,001 BGR_C.dbg
+04/29/2020  10:42 PM               161 BGR_C.drp
+04/30/2020  11:43 AM         1,281,124 BGR_C.g01
+04/30/2020  11:43 AM         7,760,052 BGR_C.g02
+04/30/2020  11:43 AM       207,211,345 BGR_C.G03
+04/30/2020  11:43 AM         6,295,280 BGR_C.G04
+04/30/2020  11:43 AM         1,145,607 BGR_C.G05
+04/30/2020  11:43 AM         1,085,683 BGR_C.G06
+04/30/2020  12:21 PM            17,927 BGR_C.grd
+04/29/2020  10:42 PM               544 BGR_C.ini
+04/29/2020  10:42 PM             1,364 BGR_C.lyr
+04/29/2020  10:42 PM               453 BGR_C.man
+04/30/2020  12:21 PM            27,705 BGR_C.nod
+04/29/2020  10:42 PM               384 BGR_C.tim
+04/29/2020  10:42 PM               362 BiologyDefault.bio
+04/30/2020  12:21 PM               121 createError.log
+04/29/2020  10:42 PM             1,898 Crown.var
+04/29/2020  10:42 PM               831 default.nit
+04/30/2020  12:21 PM                 0 dir.txt
+04/29/2020  10:42 PM               182 grid1.bat
+04/29/2020  10:42 PM                20 grid2.bat
+04/30/2020  11:43 AM            21,302 MassBl.out
+04/29/2020  10:42 PM               504 NitrogenDefault.sol
+04/30/2020  12:21 PM                 0 Rosetta.log
+04/29/2020  10:42 PM               838 runBGR_C.dat
+              29 File(s)    225,431,733 bytes
+               2 Dir(s)  137,069,219,840 bytes free
