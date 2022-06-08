@@ -1,2 +1,2 @@
-# MAIZSIM
+# Files related to running Maizsim. 
  
